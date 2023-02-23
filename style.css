@@ -12,7 +12,10 @@ background: -webkit-linear-gradient(180deg,
 filter: progid: DXImageTransform.
 Microsoft.gradient( startColorstr="#DDC54D", 
 endColorstr="#FFFFFF", GradientType=1 );}
-h1{
- flex: auto;
 
+h1 {
+    display:flex;
 }
+
+
+
