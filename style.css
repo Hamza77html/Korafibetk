@@ -12,12 +12,10 @@ background: -webkit-linear-gradient(180deg,
 filter: progid: DXImageTransform.
 Microsoft.gradient( startColorstr="#DDC54D", 
 endColorstr="#FFFFFF", GradientType=1 );}
-  .h1 { 
-    overflow: hidden;
+ .flex { 
+    display: flexbox;
     width: 60px;
-    padding: 20px;
-    margin: 20px auto;
-    display: flex;
+    height: 20px;
  }
 
 
