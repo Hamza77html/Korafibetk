@@ -12,13 +12,7 @@ background: -webkit-linear-gradient(180deg,
 filter: progid: DXImageTransform.
 Microsoft.gradient( startColorstr="#DDC54D", 
 endColorstr="#FFFFFF", GradientType=1 );}
- .h1 { 
-    display: flexbox;
-    width: 60px;
-    height: 20px;
-    font-size: larger; 
-    font-style: normal;
-    float: right;}
+    
 
 
 
