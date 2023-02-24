@@ -16,10 +16,9 @@ endColorstr="#FFFFFF", GradientType=1 );}
     display: flexbox;
     width: 60px;
     height: 20px;
-    position: left ;
     font-size: larger; 
     font-style: normal;
-    float: left;}
+    float: right;}
 
 
 
