@@ -2,6 +2,9 @@ body {
     background-color: darkgrey;
 }
 .ball {
-    margin: 0;
+    margin:0px;
     text-align:center;
+}
+*{
+    margin: 0px;
 }
