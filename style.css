@@ -2,12 +2,9 @@ body {
     background-color: darkgrey;
 }
 div{
-    margin:0px;
+    margin: 30px;
     text-align:center;
     font-size: larger;
     font-family: 'Segoe UI', Tahoma,Verdana, sans-serif;
     
-}
-*{
-    margin: 0px;
 }
