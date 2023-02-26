@@ -1,8 +1,8 @@
 body {
     background-color: darkgrey;
 }
-div{
-    margin: 30px;
+p{
+    margin: 60px;
     text-align:center;
     font-size: larger;
     font-family: 'Segoe UI', Tahoma,Verdana, sans-serif;
