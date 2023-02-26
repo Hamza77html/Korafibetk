@@ -1,5 +1,9 @@
 .search { 
    color: white;
    position: left top;
-   
+
+}
+.menu {
+   background-color: black;
+   background-position: right top;
 }
