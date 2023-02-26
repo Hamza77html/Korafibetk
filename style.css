@@ -4,6 +4,8 @@ body {
 .ball {
     margin:0px;
     text-align:center;
+    font-size: larger;
+    font-style: italic;
 }
 *{
     margin: 0px;
