@@ -3,10 +3,12 @@ body{
 }
 .search {
     height: 7%;
+    height: auto;
+    width: auto;
     width: 7%;
     position: fixed;
 }
-.Hamza {
+#Hamza {
     width: 21%;
     height: 21%;
     background-position:center;
