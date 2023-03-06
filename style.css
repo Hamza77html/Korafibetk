@@ -3,8 +3,11 @@ body{
 }
 header {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: 
+    space-between;
+    align-items: 
+    center;
     width: 11%;
     height: 11%;
+    
 }
