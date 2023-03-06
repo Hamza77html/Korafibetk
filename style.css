@@ -2,14 +2,14 @@ body{
     background-color: #222;
 }
 .search {
-    height: 9%;
+    height: 10%;
     height: auto;
     width: auto;
-    width: 9%;
+    width: 10%;
     position: fixed;
 }
-#Hamza {
-    width: 21%;
-    height: 21%;
-    background-position:center;
+.TOT {
+    background-position: top center;
+    width: 11%;
+    height: 11%;
 }
