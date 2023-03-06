@@ -1,15 +1,8 @@
 body{ 
     background-color: #222;
 }
-.search {
-    height: 10%;
-    height: auto;
-    width: auto;
-    width: 10%;
-    position: fixed;
-}
-.Logo {
-    background-position: top center;
-    width: 11%;
-    height: 11%;
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
