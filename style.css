@@ -22,6 +22,11 @@ nav{
     font-weight: bold;
 }
  nav ul {
-    float: right;
-    margin-right: 20px;
+    float: left;
+    margin-left: 20px;
+ }
+ nav ul li {
+	display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
  }
