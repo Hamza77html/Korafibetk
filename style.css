@@ -7,22 +7,7 @@ header {
     space-between;
     align-items: 
     center;
-    width: 1%;
-    height: 2%;
-
-}
-
-.search {
-    width: 9%;
-    height: 9%;
-}
-
-.Logo {
-    width: 13%;
-    height: 13%;
-}
-
-.menu {
-    width: 10%;
     height: 10%;
+    width: 10%;
+    
 }
