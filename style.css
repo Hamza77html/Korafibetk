@@ -11,3 +11,10 @@ header {
     width: 1%;
     
 }
+
+.menu {
+    width: 120px;
+    height: 100vh;
+    background-color: blanchedalmond;
+    color: black;
+}
