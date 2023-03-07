@@ -9,3 +9,8 @@
 body {
     font-family: Impact,'Arial Narrow Bold', sans-serif
 }
+nav{
+    background-color: antiquewhite;
+    height: 80px;
+    width: 100%;
+}
