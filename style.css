@@ -18,8 +18,9 @@ nav{
     color: white;
     font-size: 35px;
     line-height: 80px;
-    padding: 0 100px;
+    padding: 0 120px;
     font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
 }
  nav ul {
     float: left;
