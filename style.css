@@ -59,7 +59,7 @@ nav{
  @media (max-width : 952px) {
     label.Logo {
         font-size: 30px ;
-        padding-right: 50px;
+        padding-left: 50px;
     }
     a{
         font-size: 16px;
