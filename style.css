@@ -7,8 +7,9 @@ header {
     justify-content: 
     space-between;
     align-items:center;
-    height: 50px;
-    width: 70px;
+    width: auto;
+    height: auto;
+    
     
 }
 
