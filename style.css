@@ -23,7 +23,7 @@ nav{
     font-family: 'Courier New', Courier, monospace;
 }
  nav ul {
-    float: left;
+    float: right;
     margin-left: 20px;
  }
  nav ul li {
@@ -46,7 +46,7 @@ nav{
  .checkbtn {
     font-size: 30px;
     color: white;
-    float: left;
+    float: right;
     line-height: 80px;
     margin-left: 40px;
     cursor: pointer;
@@ -77,7 +77,7 @@ nav{
         height: 100vh ;
         background-color: gray;
         top: 80px;
-        right: -100%;
+        left: -100%;
         text-align: center;
         transition: all.5s;
     }
