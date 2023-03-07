@@ -8,11 +8,9 @@ header {
     display: flex;
     justify-content: 
     space-between;
-    align-items: 
-    top
-    center;
-    height: 1%;
-    width: 1%;
+    align-items:center;
+    height: 100px;
+    width: 120px;
     
 }
 
