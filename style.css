@@ -16,7 +16,7 @@ nav{
 }
 .Logo {
     color: white;
-    font-size: 35px;
+    font-size: 45px;
     line-height: 80px;
     padding: 0 120px;
     font-weight: bold;
@@ -30,4 +30,18 @@ nav{
 	display: inline-block;
     line-height: 80px;
     margin: 0 5px;
+ }
+  a {
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 7px 13px ;
+    border-radius: 3px;
+
+ }
+ a.home,a:hover {
+    background-color: black;
+    transition: 0.5s;
+
+   
  }
