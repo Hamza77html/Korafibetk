@@ -33,4 +33,11 @@ a {
     color: white;
 	font-size: 17px;
     text-transform: uppercase;
+    padding: 7px 13px;
+    border-radius: 3px;
+} 
+a.home,a:hover {
+    background:#999;
+    transition: .5s;
+
 }
