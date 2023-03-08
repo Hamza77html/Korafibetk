@@ -1,43 +1,49 @@
 *{
-    padding: 0;
     margin: 0;
-    text-decoration: none;
-    list-style: none;
+    padding: 0;
     box-sizing: border-box;
 }
-body{
-    font-family: montserrat;
+body {
+    background-color: aliceblue;
+    font-family: sans-serif;
+    height: 100vh;
 }
 nav {
-    background: #111;
-    height: 80px;
-	width: 100%;
+    width: 550px;
+    height: 50px;
+    background-color: gray;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    border-radius: 10px;
 }
-label.Logo{
+ 
+nav a {
+    text-decoration: none;
     color: white;
-    font-size: 35px;
-    line-height: 80px;
-    padding: 0 100px;
-    font-weight: bold;
-}
-nav ul {
-    float: left;
-    margin-right: 20px;
-}
- li{
-    display: inline-block;
-    line-height: 80px;
-    margin: 0 50px;
-}
-a {
-    color: white;
-	font-size: 17px;
+    font-size: 15px;
     text-transform: uppercase;
-    padding: 7px 13px;
-    border-radius: 3px;
-} 
-a.home,a:hover {
-    background:#999;
-    transition: .5s;
+    line-height: 50px;
+    display: inline;
+}
 
+nav a:nth-child(1) {
+    width: 100px;
+}
+nav a:nth-child(2) {
+   width: 90px;
+}
+nav a:nth-child(3) {
+   width: 110px;
+}
+nav a:nth-child(4) {
+   width: 130px;
+}
+nav a:nth-child(5) {
+   width: 120px;
 }
