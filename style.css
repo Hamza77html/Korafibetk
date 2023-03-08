@@ -21,6 +21,7 @@ nav {
     -ms-transform: translate(-50%,-50%);
     -o-transform: translate(-50%,-50%);
     border-radius: 10px;
+    background-position: 50% 50%;
 }
  
 nav a {
