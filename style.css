@@ -18,4 +18,5 @@ ul {
     background-color:gold;
     color: white;
     line-height: 80px;
+    gap: 40px;
 }
