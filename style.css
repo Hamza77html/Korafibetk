@@ -8,11 +8,12 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+    background-color: gold;
 }
 ul {
     text-decoration: none;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: black;
 }
