@@ -18,5 +18,12 @@ ul {
     background-color:gold;
     color: white;
     line-height: 80px;
-    gap: 40px;
+}
+li {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: gold ;
+    color: white;
+    line-height: 80px;
 }
