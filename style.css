@@ -15,5 +15,7 @@ ul {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: black;
+    background-color:gold;
+    color: white;
+    line-height: 80px;
 }
