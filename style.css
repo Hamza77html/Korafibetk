@@ -24,12 +24,13 @@ nav ul {
     float: right;
     margin-right: 20px;
 }
-nav ul li {
+ li{
     display: inline-block;
     line-height: 80px;
     margin: 0 50px;
 }
 a {
     color: white;
-    
+	font-size: 17px;
+    text-transform: uppercase;
 }
