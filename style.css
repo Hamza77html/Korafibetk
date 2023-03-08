@@ -21,9 +21,10 @@ ul {
 }
 li {
     text-decoration: none;
-    display: flex;
+    display: inline-block;
     justify-content: space-between;
     background-color: gold ;
     color: white;
     line-height: 80px;
+    
 }
