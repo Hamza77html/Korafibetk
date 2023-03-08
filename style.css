@@ -21,7 +21,7 @@ label.Logo{
     font-weight: bold;
 }
 nav ul {
-    float: right;
+    float: left;
     margin-right: 20px;
 }
  li{
