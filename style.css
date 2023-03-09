@@ -55,10 +55,6 @@ a:hover {
     font-weight: bold;
 }
 .match {
-    align-items: center;
+    display: flexbox;
     justify-content: space-between;
-    text-align: center;
-    color: black;
-    font-family: 'Cairo', sans-serif;
-    text-align: center;
 }
