@@ -47,3 +47,17 @@ a:hover {
     color:yellow;
     transition: .3s;
 }
+@media(max-width:850) {
+    .logo{
+        padding-top: 7px;
+        color: black;
+        font-family: 'Roboto Slab', serif;
+    }
+    ul {
+        text-decoration: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: gold;
+    }
+}
