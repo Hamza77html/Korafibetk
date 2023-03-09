@@ -61,6 +61,4 @@ a:hover {
     background-color: gold;
     color: black;
     font-family: 'Cairo', sans-serif;
-    display: inline-block;
-    line-height: 80px;
 }
