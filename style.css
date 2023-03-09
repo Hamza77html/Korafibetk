@@ -59,7 +59,8 @@ a:hover {
     justify-content: space-between;
     text-align: center;
     background-color: gold;
+    padding: 53px;
     color: black;
     font-family: 'Cairo', sans-serif;
-    
+    line-height: 80px;
 }
