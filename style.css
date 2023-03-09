@@ -54,3 +54,12 @@ a:hover {
     font-size: 37px;
     font-weight: bold;
 }
+.match {
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    background-color: gold;
+    color: black;
+    font-family: 'Cairo', sans-serif;
+    
+}
