@@ -56,4 +56,8 @@ a:hover {
 }
 .match {
     justify-content: space-between;
+    background-color: none;
+    display: flex;
+    color: black;
+    font-family: 'Tajawal', sans-serif;
 }
