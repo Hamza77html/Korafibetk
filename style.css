@@ -60,4 +60,5 @@ a:hover {
     display: flex;
     color: black;
     font-family: 'Tajawal', sans-serif;
+    padding: 10px;
 }
