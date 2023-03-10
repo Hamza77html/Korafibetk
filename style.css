@@ -61,14 +61,8 @@ a:hover {
     color: black;
     font-family: 'Tajawal', sans-serif;
 }
-.ooo{
-    width: 75%;
+table {
+    width: 100%;
     text-align: center;
     font-family: 'Tajawal', sans-serif;
-}
-.aaa {
-    width:75%;
-    text-align: center;
-    font-family: 'Tajawal', sans-serif;
-
 }
