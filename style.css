@@ -45,8 +45,8 @@ a {
 }
 a:hover,.active {
     background-color: white;
-    color: yellow;
     transition: .3s;
+    border-radius: 4px;
 }
 .welcome {
     text-align: center;
