@@ -115,8 +115,9 @@ table {
     text-align: center;
     background-color: gold;
     border-radius: 9px;
-    padding: 0 300px;
+    padding: 0 360px;
     background-size: cover;
+    font-size: 26px;
 
 
 }
