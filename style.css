@@ -112,6 +112,7 @@ table {
     font-family: 'Tajawal';
     display: flex;
     text-align: center;
+    justify-content: space-between;
 }
 .today {
     align-items: center;
@@ -121,9 +122,4 @@ table {
     text-align: center;
 
 }
-.Bbb{
-    display: flex;
-    text-align: center;
-    background-color: gold;
-    background-size: cover;
-}
+
