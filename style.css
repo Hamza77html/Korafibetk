@@ -124,4 +124,6 @@ div ul {
     display: flex;
     background-color: gold;
     background-size: cover;
+    text-align: center;
+    display: inline-block;
 }
