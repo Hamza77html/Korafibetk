@@ -80,6 +80,11 @@ table {
     color: #112;
 
 }
+.match {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 #yes {
     background-color:gold;
     color: black;
