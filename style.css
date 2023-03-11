@@ -33,7 +33,7 @@ a {
     text-decoration: none;
     font-weight: 800;
     font-size: 24px;
-    border-radius: 3px;
+    border-radius: 20px;
     font-family: 'Tajawal', sans-serif;
     }
 
@@ -46,7 +46,7 @@ a {
 a:hover,.active {
     background-color: white;
     transition: .3s;
-    border-radius: 7px;
+    border-radius: 20px;
 }
 .welcome {
     text-align: center;
