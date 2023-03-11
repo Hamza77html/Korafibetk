@@ -82,7 +82,6 @@ table {
 }
 .match {
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 #yes {
