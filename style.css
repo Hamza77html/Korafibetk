@@ -43,8 +43,9 @@ a {
     font-weight: bold;
     padding: 35px;
 }
-a:hover {
-    color:yellow;
+a:hover,.active {
+    background-color: white;
+    color: yellow;
     transition: .3s;
 }
 .welcome {
@@ -74,10 +75,6 @@ background: -webkit-linear-gradient(90deg, hsla(0, 0%, 100%, 1) 0%, hsla(0, 100%
 
 filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", endColorstr="#7F0000", GradientType=1 ); 
     font-size: 37px;
-}
-.ooo{
-    justify-content: space-between;
-    background:#ffd700;
 }
 
 .match {
