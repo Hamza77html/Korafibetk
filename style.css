@@ -111,6 +111,7 @@ table {
     align-items: center;
     font-family: 'Tajawal';
     display: flex;
+    text-align: center;
 }
 .today {
     align-items: center;
