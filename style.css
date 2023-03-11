@@ -121,3 +121,9 @@ table {
     text-align: center;
 
 }
+.Bbb{
+    display: flex;
+    text-align: center;
+    background-color: gold;
+    background-size: cover;
+}
