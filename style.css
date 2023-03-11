@@ -10,7 +10,7 @@ nav {
     align-items: center;
     background-color: gold;
 }
-ul {
+.book {
     text-decoration: none;
     display: flex;
     justify-content: space-between;
