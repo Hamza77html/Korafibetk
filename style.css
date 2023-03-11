@@ -110,6 +110,7 @@ table {
 .Almasry {
     align-items: center;
     font-family: 'Tajawal';
+    display: flex;
 }
 .today {
     align-items: center;
@@ -118,10 +119,4 @@ table {
     background-size: cover;
     text-align: center;
 
-}
-div ul {
-    align-items: center;
-    display: flex;
-    text-align: center;
-    padding-right: 50%;
 }
