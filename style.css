@@ -83,11 +83,12 @@ table {
 .match {
     display: flex;
     align-items: center;
-    size: 24px;
+    size: 50px;
+    font-size: 18px;
 }
 #yes {
     background-color:gold;
     color: black;
-    border-radius: 5px;
+    border-radius: 9px;
     transition: .5s;
 }
