@@ -46,7 +46,7 @@ a {
 a:hover,.active {
     background-color: white;
     transition: .3s;
-    border-radius: 4px;
+    border-radius: 7px;
 }
 .welcome {
     text-align: center;
