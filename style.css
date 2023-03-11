@@ -87,14 +87,3 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", en
 
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", endColorstr="#7F0000", GradientType=1 );
 }
-.match {
-    display: inline-block;
-    margin: 0 5px;
-    float:right;
-    text-transform: uppercase;
-    justify-content: space-between;
-    align-items: center;
-    text-align: center;
-    padding: 5px 20px;
-    font-family: 'Tajawal';
-}
