@@ -92,5 +92,5 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", en
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    line-height: 70px;
+    padding: 5px 20px;
 }
