@@ -92,7 +92,6 @@ table {
     color: black;
     border-radius: 7px;
     transition: .3s;
-    border-style: hidden;
     border-color: #113;
 }    
 #tod { 
@@ -104,6 +103,5 @@ table {
     border-radius: 7px;
     font-family: 'Tajawal';
     border: #113;
-    border-style: hidden;
     white-space: 2px;
 }
