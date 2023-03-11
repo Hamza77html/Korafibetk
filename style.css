@@ -115,7 +115,9 @@ table {
     text-align: center;
     background-color: gold;
     border-radius: 9px;
-    padding: 0 360;
+    padding: 0 180px;
+    background-size: cover;
+
 
 }
 .today {
@@ -125,5 +127,14 @@ table {
     background-size: cover;
     text-align: center;
 
+}
+.time {
+    background-color: silver;
+    border-radius: 6px;
+
+}
+.time a:hover {
+    background-color: white;
+    transition: .3s;
 }
 
