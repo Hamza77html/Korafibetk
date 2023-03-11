@@ -84,17 +84,21 @@ table {
     display: flex;
     align-items: center;
     size: 50px;
-    font-size: 18px;
+    font-size: 24px;
+    font-family: 'Tajawal';
 }
 #yes {
     background-color:gold;
     color: black;
-    border-radius: 8px;
-    transition: .5s;
+    border-radius: 7px;
+    transition: .3s;
 }
 #tod { 
     color: #112;
     background-color: gold;
     border-radius: 8px;
     transition: .3s;
+    font-size: 23px;
+    border-radius: 7px;
+    font-family: 'Tajawal';
 }
