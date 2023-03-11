@@ -90,6 +90,8 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", en
 .match {
     display: inline-block;
     margin: 0 5px;
+    float:right;
+    text-transform: uppercase;
     justify-content: space-between;
     align-items: center;
     text-align: center;
