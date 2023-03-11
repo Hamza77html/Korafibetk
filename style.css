@@ -83,3 +83,8 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", en
     text-align: center;
     border-radius: 3px;
 }
+.women {
+    text-align: center;
+    font-size : 23px ;
+    font-family: 'Tajawal';
+}
