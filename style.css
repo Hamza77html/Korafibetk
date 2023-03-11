@@ -65,7 +65,8 @@ table {
     text-align: center;
     text-transform: uppercase;
     font-family: 'Tajawal';
-    color: gold;
+    background-color: gold;
+    }
 
 .women {
     text-align: center;
