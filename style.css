@@ -107,3 +107,7 @@ table {
     display: flex;
     align-items: center;
 }
+.match {
+    align-items: center;
+    font-family: 'Tajawal';
+}
