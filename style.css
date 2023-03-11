@@ -87,3 +87,10 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", en
 
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", endColorstr="#7F0000", GradientType=1 );
 }
+
+.match {
+    font-family: 'Tajawal';
+    background-color: gold;
+    text-align: center;
+    border-radius: 3px;
+}
