@@ -55,6 +55,7 @@ a:hover {
     font-weight: bold;
 }
 .match {
+    text-align: center;
     background-color: none;
     display: flex;
     color: black;
