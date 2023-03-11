@@ -117,4 +117,11 @@ table {
     background-color: gold;
     background-size: cover;
     text-align: center;
+
+}
+div ul {
+    align-items: center;
+    display: flex;
+    background-color: gold;
+    background-size: cover;
 }
