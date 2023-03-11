@@ -107,7 +107,13 @@ table {
     display: flex;
     align-items: center;
 }
-.match {
+.Almasry {
     align-items: center;
     font-family: 'Tajawal';
+}
+.today {
+    align-items: center;
+    font-size: 30px;
+    background-color: gold;
+    background-size: cover;
 }
