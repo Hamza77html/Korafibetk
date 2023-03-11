@@ -108,7 +108,7 @@ table {
     display: flex;
     align-items: center;
 }
-.Almasry {
+.match1 {
     align-items: center;
     font-family: 'Tajawal';
     display: flex;
@@ -128,13 +128,5 @@ table {
     text-align: center;
 
 }
-.time {
-    background-color: silver;
-    border-radius: 6px;
 
-}
-.time a:hover {
-    background-color: white;
-    transition: .3s;
-}
 
