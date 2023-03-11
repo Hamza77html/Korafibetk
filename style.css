@@ -113,7 +113,8 @@ table {
     font-family: 'Tajawal';
     display: flex;
     text-align: center;
-    justify-content: space-between;
+    background-color: gold;
+    border-radius: 9px;
 
 }
 .today {
