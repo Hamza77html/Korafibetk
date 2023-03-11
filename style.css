@@ -78,5 +78,11 @@ table {
     display: flex;
     justify-content: center;
     color: #112;
-    
+
+}
+#yes {
+    background-color:gold;
+    color: black;
+    border-radius: 20px;
+    transition: .5s;
 }
