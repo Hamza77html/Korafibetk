@@ -89,6 +89,12 @@ table {
 #yes {
     background-color:gold;
     color: black;
-    border-radius: 9px;
+    border-radius: 8px;
     transition: .5s;
+}
+#tod { 
+    color: #112;
+    background-color: gold;
+    border-radius: 8px;
+    transition: .3s;
 }
