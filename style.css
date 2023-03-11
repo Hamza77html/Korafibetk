@@ -75,7 +75,7 @@ background: -webkit-linear-gradient(90deg, hsla(0, 0%, 100%, 1) 0%, hsla(0, 100%
 filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", endColorstr="#7F0000", GradientType=1 ); 
     font-size: 37px;
 }
-.match {
+.ooo{
     justify-content: space-between;
     background: hsla(0, 0%, 100%, 1);
 
