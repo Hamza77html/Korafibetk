@@ -103,3 +103,7 @@ table {
     border-radius: 7px;
     font-family: 'Tajawal';
 }
+.ay {
+    display: flex;
+    align-items: center;
+}
