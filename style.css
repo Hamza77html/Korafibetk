@@ -54,13 +54,6 @@ a:hover {
     font-size: 37px;
     font-weight: bold;
 }
-.match {
-    text-align: center;
-    background-color: none;
-    display: flex;
-    color: black;
-    font-family: 'Tajawal', sans-serif;
-}
 table {
     width: 100%;
     text-align: center;
