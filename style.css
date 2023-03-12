@@ -57,10 +57,10 @@ a:hover,.active {
     font-weight: bold;
 }
 table {
-    width: 75%;
+    width: 100%;
     text-align: center;
     font-family: 'Tajawal', sans-serif;
-    font-size: 31px;
+    font-size: 29px;
     align-items: center;
 }
 .egypt {
