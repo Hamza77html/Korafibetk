@@ -135,18 +135,16 @@ table {
     width: 50%;
     
 }
-.cont{
+.cont {
     position: relative;
-    max-width: 800px;
-    margin: 0 auto;
 }
-.cont img(vertical-align: center ;)
+.cont img{
 
-
-.cont .matches {
-    position: absolute;
-    bottom: 0;
-    background: rgba(0,0,0,0.5);
-    width: 100%;
-    padding: 20px ;
-}
+    max-width: 100%;
+    height: auto;
+    } 
+    .matches {
+        position: absolute;
+        top: 0;
+    }
+    
