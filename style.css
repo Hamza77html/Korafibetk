@@ -147,12 +147,11 @@ table {
     } 
     .matches {
         position: absolute;
-        top: 5;
+        top: 0;
         padding: 11px;
     }
     .time {
         background-color: gold;
-        box-sizing: border-box;
         color: #112;
         font-size: 32px;
         
