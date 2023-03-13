@@ -151,8 +151,7 @@ table {
         padding: 11px;
     }
     .time {
-        border-color: #112;
-        border: 3px;
+        border-radius: 4px;
         color: #112;
         font-size: 32px;
         
