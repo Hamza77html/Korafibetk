@@ -133,6 +133,8 @@ table {
 .matches{
     text-align: center;
     width: 100%;
+    color: white;
+    top: 5px;
     
 }
 .cont {
