@@ -152,6 +152,7 @@ table {
     }
     .time {
         border-color: #112;
+        border: 3px;
         color: #112;
         font-size: 32px;
         
