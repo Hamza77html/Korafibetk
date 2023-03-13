@@ -149,7 +149,7 @@ table {
         position: absolute;
         top: 0;
         padding: 11px;
-        font-size: bold;
+        font-weight: 400;
     }
     .time {
         border: 10px;
