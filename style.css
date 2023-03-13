@@ -157,16 +157,3 @@ table {
         font-size: 38px;
     }
     
-.masr{
-    position: relative;
-}
-.masr img{
-    max-width: 100%;
-    height: auto;
-}
-.league {
-    position: absolute;
-    top: 0;
-    padding: 11px;
-    
-}
