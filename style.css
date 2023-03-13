@@ -132,6 +132,7 @@ table {
 }
 .matches{
     text-align: center;
+    align-items: center;
     width: 100%;
     color: white;
     top: 10;
@@ -149,7 +150,7 @@ table {
         position: absolute;
         top: 0;
         padding: 11px;
-        font-weight: 700;
+        font-weight: 600;
     }
     .time {
         border: 10px;
