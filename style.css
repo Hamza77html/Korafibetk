@@ -159,9 +159,13 @@ table {
     
     .perez {
         padding: 0;
-        width: 25%;
-        height: 25%;
+        width: 32%;
+        height: 32%;
     }
     .nws{
         display: flex;
+    }
+    .rel{
+        font-weight: 800;
+        font-size: 27px;
     }
