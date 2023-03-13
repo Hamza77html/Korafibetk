@@ -151,7 +151,7 @@ table {
     }
     .time {
         background-color: gold;
-        background-size: 5px 5px;
+        background-size: cover;
         color: #112;
         font-size: 32px;
     }
