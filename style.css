@@ -162,8 +162,14 @@ table {
         width: 32%;
         height: 32%;
     }
+    .word{
+        font-weight: 900;
+        
+    }
     .nws{
         display: flex;
+        background-color: silver;
+        background-size: cover;
     }
     .rel{
         font-weight: 800;
