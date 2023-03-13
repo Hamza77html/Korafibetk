@@ -147,7 +147,7 @@ table {
     } 
     .matches {
         position: absolute;
-        top: 0;
+        top: 10%;
         padding: 11px;
     }
     .time {
