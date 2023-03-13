@@ -149,4 +149,8 @@ table {
         position: absolute;
         top: 0;
     }
+    .time {
+        background-color: gold;
+        background-size: cover;
+    }
     
