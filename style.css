@@ -170,7 +170,7 @@ table {
         display: flex;
         background-color: gold;
         background-size: cover;
-        padding: 5;
+        padding: 5px;
     }
     .rel{
         font-weight: 800;
